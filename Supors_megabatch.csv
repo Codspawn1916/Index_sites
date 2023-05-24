@@ -1,1012 +1,900 @@
-Sample Barcode,Sample Label,Freezer Name,Rack Name,Box Name,Filter Type (Conditional)
-eLP_E01_21w_0002,eLP_E01_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0004,eLP_E01_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0009,eLP_E01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0010,eLP_E01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0012,eLP_E01_21w_0012,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/25,Supor
-eLP_E01_21w_0015,eLP_E01_21w_0015,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/24,Supor
-eLP_E01_21w_0019,eLP_E01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0020,eLP_E01_21w_0020,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/24,Supor
-eLP_E01_21w_0024,eLP_E01_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0027,eLP_E01_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0030,eLP_E01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0031,eLP_E01_21w_0031,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0034,eLP_E01_21w_0034,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0035,eLP_E01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0043,eLP_E01_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0044,eLP_E01_21w_0044,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0048,eLP_E01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0049,eLP_E01_21w_0049,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0052,eLP_E01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0053,eLP_E01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0055,eLP_E01_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0057,eLP_E01_21w_0057,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0060,eLP_E01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0061,eLP_E01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0064,eLP_E01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0065,eLP_E01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0072,eLP_E01_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0074,eLP_E01_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0077,eLP_E01_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0078,eLP_E01_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0081,eLP_E01_21w_0081,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0082,eLP_E01_21w_0082,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E01_21w_0087,eLP_E01_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0089,eLP_E01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0092,eLP_E01_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0093,eLP_E01_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0096,eLP_E01_21w_0096,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0097,eLP_E01_21w_0097,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E01_21w_0102,eLP_E01_21w_0102,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_21w_0104,eLP_E01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_21w_0107,eLP_E01_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_21w_0108,eLP_E01_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_21w_0111,eLP_E01_21w_0111,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_21w_0112,eLP_E01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E01_22w_0002,eLP_E01_22w_0002,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_E01_22w_0005,eLP_E01_22w_0005,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_E01_22w_0009,eLP_E01_22w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E01_22w_0010,eLP_E01_22w_0010,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,eLP_E01_22w_0010,Supor
-eLP_E01_22w_0012,eLP_E01_22w_0012,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E01_22w_0015,eLP_E01_22w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E01_22w_0019,eLP_E01_22w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E01_22w_0020,eLP_E01_22w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E01_22w_0024,eLP_E01_22w_0024,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E01_22w_0025,eLP_E01_22w_0025,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E01_22w_0045,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0047,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0050,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0051,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0053,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0054,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0060,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0062,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0065,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0066,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0069,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_22w_0070,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E01_23w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E01_23w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E01_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E04_21w_0002,eLP_E04_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0005,eLP_E04_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0009,eLP_E04_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0010,eLP_E04_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0012,eLP_E04_21w_0012,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0015,eLP_E04_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0019,eLP_E04_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0020,eLP_E04_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_E04_21w_0045,eLP_E04_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0047,eLP_E04_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0050,eLP_E04_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0051,eLP_E04_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0055,eLP_E04_21w_0055 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_E04_21w_0060,eLP_E04_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0062,eLP_E04_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0065,eLP_E04_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0066,eLP_E04_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0069,eLP_E04_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0070,eLP_E04_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0099,eLP_E04_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0102,eLP_E04_21w_0102,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0106,eLP_E04_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0107,eLP_E04_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0148,eLP_E04_21w_0148,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0150,eLP_E04_21w_0150,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0153,eLP_E04_21w_0153,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0154,eLP_E04_21w_0154,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0157,eLP_E04_21w_0157,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0158,eLP_E04_21w_0158,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_E04_21w_0160,eLP_E04_21w_0160,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0162,eLP_E04_21w_0162,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0165,eLP_E04_21w_0165,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0166,eLP_E04_21w_0166,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0169,eLP_E04_21w_0169,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_21w_0170,eLP_E04_21w_0170,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_E04_22w_0002,eLP_E04_22w_0002,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0005,eLP_E04_22w_0005,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0009,eLP_E04_22w_0009,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0010,eLP_E04_22w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E04_22w_0012,eLP_E04_22w_0012,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0014,eLP_E04_22w_0014,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0017,eLP_E04_22w_0017,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E04_22w_0018,eLP_E04_22w_0018,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E04_22w_0021,eLP_E04_22w_0021,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_E04_22w_0022,eLP_E04_22w_0022,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_E04_22w_0027,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0029,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0032,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0033,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0072,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0074,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0077,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_22w_0080,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_E04_23w_0003,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E04_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E04_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_E04_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_21w_0004,eLP_L02_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0008,eLP_L02_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0009,eLP_L02_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0011,eLP_L02_21w_0011,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0016,eLP_L02_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0020,eLP_L02_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0021,eLP_L02_21w_0021,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0025,eLP_L02_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0029,eLP_L02_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0030,eLP_L02_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0035,eLP_L02_21w_0035 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_L02_21w_0037,eLP_L02_21w_0037 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_L02_21w_0040,eLP_L02_21w_0040 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_L02_21w_0041,eLP_L02_21w_0041 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_L02_21w_0044,eLP_L02_21w_0044 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
-eLP_L02_21w_0045,eLP_L02_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0053,eLP_L02_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0055,eLP_L02_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0058,eLP_L02_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0059,eLP_L02_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0061,eLP_L02_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0063,eLP_L02_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0068,eLP_L02_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0070,eLP_L02_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0073,eLP_L02_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0074,eLP_L02_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0077,eLP_L02_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0078,eLP_L02_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0083,eLP_L02_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0085,eLP_L02_21w_0085,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0087,eLP_L02_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0089,eLP_L02_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0092,eLP_L02_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0093,eLP_L02_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_L02_21w_0098,eLP_L02_21w_0098,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0100,eLP_L02_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0103,eLP_L02_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0104,eLP_L02_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0107,eLP_L02_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0108,eLP_L02_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0145,eLP_L02_21w_0145,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0148,eLP_L02_21w_0148,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0149,eLP_L02_21w_0149,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0152,eLP_L02_21w_0152,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0153,eLP_L02_21w_0153,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_21w_0155,eLP_L02_21w_0155,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_L02_22w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0012,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_22w_0019,eLP_L02_22w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_L02_22w_0022,eLP_L02_22w_0022,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_L02_22w_0023,eLP_L02_22w_0023,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
-eLP_L02_22w_0026,eLP_L02_22w_0026,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_L02_22w_0033,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_L02_22w_0034,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_L02_22w_0037,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eLP_L02_22w_0039,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eLP_L02_22w_0043,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_L02_22w_0047,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eLP_L02_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_23w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_23w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_23w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_L02_23w_0012,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_S01_21w_0003,eLP_S01_21w_0003,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0007,eLP_S01_21w_0007,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0008,eLP_S01_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0010,eLP_S01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0012,eLP_S01_21w_0012,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0015,eLP_S01_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0019,eLP_S01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0020,eLP_S01_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0025,eLP_S01_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0029,eLP_S01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0030,eLP_S01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0032,eLP_S01_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0035,eLP_S01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0039,eLP_S01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0040,eLP_S01_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0054,eLP_S01_21w_0054,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0061,eLP_S01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0062,eLP_S01_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eLP_S01_21w_0064,eLP_S01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0067,eLP_S01_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0072,eLP_S01_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0075,eLP_S01_21w_0075,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0079,eLP_S01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0080,eLP_S01_21w_0080,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0081,eLP_S01_21w_0081,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0082,eLP_S01_21w_0082,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
-eLP_S01_21w_0133,eLP_S01_21w_0133,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_S01_21w_0135,eLP_S01_21w_0135,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_S01_21w_0139,eLP_S01_21w_0139,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_S01_21w_0140,eLP_S01_21w_0140,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eLP_S01_22w_0015,eLP_S01_22w_0015,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_S01_22w_0018,eLP_S01_22w_0018,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_S01_22w_0022,eLP_S01_22w_0022,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_S01_22w_0023,eLP_S01_22w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_S01_22w_0025,eLP_S01_22w_0025,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor-1-27-23,Supor
-eLP_S01_22w_0028,eLP_S01_22w_0028,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eLP_S01_22w_0032,eLP_S01_22w_0032,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_S01_22w_0033,eLP_S01_22w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eLP_S01_22w_0050,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_S01_22w_0052,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_S01_22w_0055,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_S01_22w_0056,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
-eLP_S01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_S01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_S01_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eLP_S01_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eMC_C01_21w_0001,eMC_C01_21w_0001,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0005,eMC_C01_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0009,eMC_C01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0010,eMC_C01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0011,eMC_C01_21w_0011,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0013,eMC_C01_21w_0013,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0015,eMC_C01_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0018,eMC_C01_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0019,eMC_C01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0022,eMC_C01_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0023,eMC_C01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0028,eMC_C01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0029,eMC_C01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C01_21w_0030,eMC_C01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eMC_C03_21w_0063,eMC_C03_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C03_21w_0066,eMC_C03_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C03_21w_0067,eMC_C03_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C03_21w_0070,eMC_C03_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C03_21w_0071,eMC_C03_21w_0071,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C03_21w_0072,eMC_C03_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
-eMC_C05_21w_0027,eMC_C05_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0028,eMC_C05_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0033,eMC_C05_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0034,eMC_C05_21w_0034,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0043,eMC_C05_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0049,eMC_C05_21w_0049,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_c05_21w_0050,emc_c05_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_C05_21w_0059,eMC_C05_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_C05_21w_0060,emc_C05_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_C05_21w_0066,emc_C05_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_C05_21w_0093,emc_C05_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_C05_21w_0094,eMC_C05_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C05_21w_0099,eMC_C05_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_C05_21w_0100,emc_C05_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_C05_21w_0109,emc_C05_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_C05_21w_0110,eMC_C05_21w_0110,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_C05_21w_0115,emc_C05_21w_0115,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_C05_21w_0116,emc_C05_21w_0116,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0008,eMC_C06_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0009,eMC_C06_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0014,eMC_C06_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0015,eMC_C06_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0024,eMC_C06_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0025,eMC_C06_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0030,eMC_C06_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0031,eMC_C06_21w_0031,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0040,eMC_C06_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0041,eMC_C06_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0046,eMC_C06_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0047,eMC_C06_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0052,eMC_C06_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0053,eMC_C06_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0058,eMC_C06_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0059,eMC_C06_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eMC_C06_21w_0072,eMC_C06_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0073,eMC_C06_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0078,eMC_C06_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0079,eMC_C06_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0088,eMC_C06_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0089,eMC_C06_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0146,eMC_C06_21w_0146,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_C06_21w_0147,eMC_C06_21w_0147,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_L01_21w_0029,eMC_L01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_L01_21w_0030,eMC_L01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_L01_21w_0035,eMC_L01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_L01_21w_0036,eMC_L01_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_l01_21w_0045,emc_l01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_L01_21w_0046,eMC_L01_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_l01_21w_0051,emc_l01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_l01_21w_0052,emc_l01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_L01_21w_0059,emc_L01_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_L01_21w_0060,emc_L01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_S01_21w_0027,eMC_S01_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-eMC_S01_21w_0028,eMC_S01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_s01_21w_0039,emc_s01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_s01_21w_0040,emc_s01_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_S01_21w_0048,emc_S01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_S01_21w_0065,emc_S01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_S01_21w_0066,eMC_S01_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-emc_S01_21w_0068,emc_S01_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-emc_S01_21w_0069,emc_S01_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
-eMC_S01_21w_0078,eMC_S01_21w_0078,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,Supor_2/3/23,Supor
-eMC_S01_21w_0079,eMC_S01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
-ePR_E01_21w_0045,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0045,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0046,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0046,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0049,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0050,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0050,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0053,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0053,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0059,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0059,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0060,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0060,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0063,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0063,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0064,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0064,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0068,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0068,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0068,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0069,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0069,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0073,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0073,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E01_21w_0074,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0074,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E01_21w_0078,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0078,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0079,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E01_21w_0082,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0082,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E01_21w_0083,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0083,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E01_21w_0087,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0087,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0091,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0091,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0092,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0092,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0095,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0095,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0096,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0096,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0100,ePR_E01,Kinnison lab (Murray),,,Supor
-ePR_E01_21w_0100,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E01_21w_0101,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_21w_0102,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_21w_0105,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_21w_0106,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_21w_0110,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_21w_0111,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_22w_0095,ePR_E01_22w_0095,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0097,ePR_E01_22w_0097,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0098,ePR_E01_22w_0098,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0100,ePR_E01_22w_0100,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0105,ePR_E01_22w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0111,ePR_E01_22w_0111,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0114,ePR_E01_22w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0115,ePR_E01_22w_0115,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0119,ePR_E01_22w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0120,ePR_E01_22w_0120,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0124,ePR_E01_22w_0124,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0128,ePR_E01_22w_0128,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0129,ePR_E01_22w_0129,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0133,ePR_E01_22w_0133,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0134,ePR_E01_22w_0134,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E01_22w_0138,ePR_E01_22w_0138,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E01_22w_0140,ePR_E01_22w_0140,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E01_22w_0145,ePR_E01_22w_0145,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E01_22w_0149,ePR_E01_22w_0149,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E01_22w_0150,ePR_E01_22w_0150,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E01_23w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_23w_0018,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_23w_0022,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_23w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_23w_0027,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E01_23w_0028,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0030,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0030,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0031,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0031,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0034,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0034,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0035,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0035,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0039,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0039,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0040,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0040,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0043,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0043,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0044,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0044,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0048,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0048,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0049,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0052,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0052,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E02_21w_0053,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0053,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-ePR_E02_21w_0057,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0057,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0058,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0058,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0061,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0061,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0062,ePR_E02,Kinnison lab (Murray),,,Supor
-ePR_E02_21w_0062,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-ePR_E02_21w_0066,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0067,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0070,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0071,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0099,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0100,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0103,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0104,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_21w_0108,ePR_E02_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-ePR_E02_21w_0110,ePR_E02_21w_0110,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-ePR_E02_21w_0111,ePR_E02_21w_0111,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-ePR_E02_21w_0113,ePR_E02_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-ePR_E02_22w_0063,ePR_E02_22w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-ePR_E02_22w_0064,ePR_E02_22w_0064,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-ePR_E02_22w_0067,ePR_E02_22w_0067,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-ePR_E02_22w_0073,ePR_E02_22w_0073,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0074,ePR_E02_22w_0074,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0076,ePR_E02_22w_0076,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0080,ePR_E02_22w_0080,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0082,ePR_E02_22w_0082,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0084,ePR_E02_22w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0085,ePR_E02_22w_0085,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-ePR_E02_22w_0091,ePR_E02_22w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E02_22w_0092,ePR_E02_22w_0092,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E02_22w_0096,ePR_E02_22w_0096,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_E02_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0013,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0017,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_E02_23w_0018,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-ePR_L01_21w_0007,ePR_L01_21w_0007,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0008,ePR_L01_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0023,ePR_L01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0026,ePR_L01_21w_0026,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0030,ePR_L01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0035,ePR_L01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0036,ePR_L01_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0039,ePR_L01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0047,ePR_L01_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0051,ePR_L01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0052,ePR_L01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0058,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0059,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0064,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0065,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0082,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0087,,Kinnison lab (Murray),,Supor_5/10/23,Supor
-ePR_L01_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0092,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0093,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0098,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0099,,Kinnison lab (Murray),,,Supor
-ePR_L01_21w_0108,ePR_L01_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0112,ePR_L01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-ePR_L01_21w_0118,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0122,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0123,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0127,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_21w_0128,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0003,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0019,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0024,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0035,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0038,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0042,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0043,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0047,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0048,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0051,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0054,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0058,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0059,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0063,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0064,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0066,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0069,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0073,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0074,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0078,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0079,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0081,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0084,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0088,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0089,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0093,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0094,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0096,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_22w_0097,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0100,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0103,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0104,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0106,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0108,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0109,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_L01_22w_0130,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_L01_22w_0131,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_L01_22w_0135,,Kinnison lab (Murray),,,Supor
-ePR_L01_22w_0136,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_23w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_L01_23w_0012,,Kinnison lab (Murray),,Supor_5/10/23,Supor
-ePR_L01_23w_0013,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0001,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0014,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0015,,Kinnison lab (Murray),,,Supor
-ePR_S01_21w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_21w_0042,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0050,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0056,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0057,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0084,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0085,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0120,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0122,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0123,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0127,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0130,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0131,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0135,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_21w_0139,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_22w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_22w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_22w_0027,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0030,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0034,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0035,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0038,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0042,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0043,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0046,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0052,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0053,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0055,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0058,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0061,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0062,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
-ePR_S01_22w_0066,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0069,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0073,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_22w_0074,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_23w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
-ePR_S01_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-epr_s01_23w_0015,,Kinnison lab (Murray),,supor_5/10/23,Supor
-ePR_S01_23w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_23w_0020,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_23w_0022,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePR_S01_23w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
-ePS_C01_21w_0038,ePS_C01_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0041,ePS_C01_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0045,ePS_C01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0046,ePS_C01_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0050,ePS_C01_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0051,ePS_C01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0053,ePS_C01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0056,ePS_C01_21w_0056,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0060,ePS_C01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0061,ePS_C01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0065,ePS_C01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-ePS_C01_21w_0066,ePS_C01_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSA_E01_21w_0010,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0011,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0014,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0014,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0015,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0019,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0019,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0020,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0020,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0023,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0024,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0024,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0028,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0028,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-eSA_E01_21w_0029,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0029,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-eSA_E01_21w_0032,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0032,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-eSA_E01_21w_0033,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0033,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
-eSA_E01_21w_0037,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0037,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0038,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0038,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0041,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0041,,Maine-eDNA (Hitchner),Supor_Rack_1,supor_3/27/23,Supor
-eSA_E01_21w_0042,eSA_E01,Kinnison lab (Murray),,,Supor
-eSA_E01_21w_0042,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
-eSA_E01_21w_0091,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_21w_0092,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_21w_0096,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_21w_0139,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_21w_0140,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_21w_0142,eSA_E01_21w_0142,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_21w_0144,eSA_E01_21w_0144,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSA_E01_21w_0145,eSA_E01_21w_0145,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_21w_0147,eSA_E01_21w_0147,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0041,eSA_E01_22w_0041,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0043,eSA_E01_22w_0043,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSA_E01_22w_0044,eSA_E01_22w_0044,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0046,eSA_E01_22w_0046,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0053,eSA_E01_22w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0054,eSA_E01_22w_0054,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0055,eSA_E01_22w_0055,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0056,eSA_E01_22w_0056,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0062,eSA_E01_22w_0062,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0063,eSA_E01_22w_0063,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0064,eSA_E01_22w_0064,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0066,eSA_E01_22w_0066,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSA_E01_22w_0069,eSA_E01_22w_0069,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSA_E01_22w_0070,eSA_E01_22w_0070,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSA_E01_22w_0074,eSA_E01_22w_0074,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSA_E01_22w_0076,eSA_E01_22w_0076,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSA_E01_22w_0078,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_22w_0080,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSA_E01_22w_0081,eSA_E01_22w_0081,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0083,eSA_E01_22w_0083,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSA_E01_22w_0084,eSA_E01_22w_0084,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSA_E01_22w_0086,eSA_E01_22w_0086,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSA_E01_22w_0090,eSA_E01_22w_0090,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
-eSA_E01_22w_0091,eSA_E01_22w_0091,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
-eSG_C02_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C02_21w_0080,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C02_21w_0083,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C02_21w_0084,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C02_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C02_21w_0089,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_C05_21w_0004,eSG_C05_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0005,eSG_C05_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0009,eSG_C05_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0010,eSG_C05_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0014,eSG_C05_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0018,eSG_C05_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0020,eSG_C05_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0024,eSG_C05_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0027,eSG_C05_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0032,eSG_C05_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0033,eSG_C05_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0037,eSG_C05_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0038,eSG_C05_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0040,eSG_C05_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0043,eSG_C05_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0047,eSG_C05_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0048,eSG_C05_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0052,eSG_C05_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0053,eSG_C05_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0055,eSG_C05_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_C05_21w_0058,eSG_C05_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_C05_21w_0062,eSG_C05_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_C05_21w_0063,eSG_C05_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_C05_21w_0067,eSG_C05_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_C05_21w_0068,eSG_C05_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_E01_21w_0002,eSG_E01_21w_0002 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0009,eSG_E01_21w_0009 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0013,eSG_E01_21w_0013 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0014,eSG_E01_21w_0014 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0016,eSG_E01_21w_0016 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0023,eSG_E01_21w_0023 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0027,eSG_E01_21w_0027 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0028,eSG_E01_21w_0028 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0030,eSG_E01_21w_0030 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0032,eSG_E01_21w_0032 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0037,eSG_E01_21w_0037 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0041,eSG_E01_21w_0041 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0042,eSG_E01_21w_0042 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0045,eSG_E01_21w_0045 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0048,eSG_E01_21w_0048 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0051,eSG_E01_21w_0051 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0058,eSG_E01_21w_0058 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0061,eSG_E01_21w_0061 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0069,eSG_E01_21w_0069 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0074,eSG_E01_21w_0074 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0076,eSG_E01_21w_0076 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0079,eSG_E01_21w_0079 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0083,eSG_E01_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0084,eSG_E01_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0088,eSG_E01_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0089,eSG_E01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0091,eSG_E01_21w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0094,eSG_E01_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0098,eSG_E01_21w_0098,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0099,eSG_E01_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0103,eSG_E01_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E01_21w_0104,eSG_E01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0106,eSG_E01_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0109,eSG_E01_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0113,eSG_E01_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0114,eSG_E01_21w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0118,eSG_E01_21w_0118,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_21w_0119,eSG_E01_21w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
-eSG_E01_22w_0085,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0089,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0090,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0092,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0095,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0099,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0100,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0104,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E01_22w_0105,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_21w_0002,eSG_E02_21w_0002,Maine-eDNA (Hitchner),Archive_Rack_1,archive3_2/17/23,Supor
-eSG_E02_21w_0008,eSG_E02_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0009,eSG_E02_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0014,eSG_E02_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0016,eSG_E02_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0022,eSG_E02_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0023,eSG_E02_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0027,eSG_E02_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0028,eSG_E02_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0030,eSG_E02_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0032,eSG_E02_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0036,eSG_E02_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0037,eSG_E02_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0041,eSG_E02_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0042,eSG_E02_21w_0042,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0045,eSG_E02_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0048,eSG_E02_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0053,eSG_E02_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0057,eSG_E02_21w_0057,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0058,eSG_E02_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0060,eSG_E02_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0067,eSG_E02_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0068,eSG_E02_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0072,eSG_E02_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0073,eSG_E02_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0076,eSG_E02_21w_0076,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E02_21w_0084,eSG_E02_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0089,eSG_E02_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0091,eSG_E02_21w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0094,eSG_E02_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0099,eSG_E02_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0103,eSG_E02_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0104,eSG_E02_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0106,eSG_E02_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0109,eSG_E02_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0114,eSG_E02_21w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0118,eSG_E02_21w_0118,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_21w_0119,eSG_E02_21w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
-eSG_E02_22w_0002,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0005,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0009,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0010,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0014,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0015,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0018,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0022,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0023,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0027,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0028,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0032,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0039,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0045,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0048,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0052,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0053,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0057,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0058,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0060,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0063,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0067,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0068,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0072,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0073,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0075,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0078,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_E02_22w_0082,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0083,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0087,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0088,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0093,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0097,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0098,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0102,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E02_22w_0103,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_21w_0002,eSG_E03_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0009,eSG_E03_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0014,eSG_E03_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0016,eSG_E03_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0023,eSG_E03_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0027,eSG_E03_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0028,eSG_E03_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0036,eSG_E03_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0037,eSG_E03_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0042,eSG_E03_21w_0042,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0045,eSG_E03_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0047,eSG_E03_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0055,eSG_E03_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0058,eSG_E03_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0062,eSG_E03_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0069,eSG_E03_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0070,eSG_E03_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0074,eSG_E03_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_E03_21w_0075,eSG_E03_21w_0075,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E03_21w_0077,eSG_E03_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
-eSG_E03_21w_0084,eSG_E03_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0085,eSG_E03_21w_0085,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0090,eSG_E03_21w_0090,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0092,eSG_E03_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0100,eSG_E03_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0105,eSG_E03_21w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0107,eSG_E03_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0110,eSG_E03_21w_0110,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0115,eSG_E03_21w_0115,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_21w_0120,eSG_E03_21w_0120,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_E03_22w_0077,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0080,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0084,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0085,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0089,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0090,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0092,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0095,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0099,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0100,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0104,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_E03_22w_0105,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_21w_0002,eSG_L01_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0004,eSG_L01_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0009,eSG_L01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0014,eSG_L01_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0016,eSG_L01_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0018,eSG_L01_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0022,eSG_L01_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0023,eSG_L01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0028,eSG_L01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0033,eSG_L01_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0037,eSG_L01_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0038,eSG_L01_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0043,eSG_L01_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0045,eSG_L01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0048,eSG_L01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0053,eSG_L01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0054,eSG_L01_21w_0054,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0059,eSG_L01_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0063,eSG_L01_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0064,eSG_L01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0068,eSG_L01_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0069,eSG_L01_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0074,eSG_L01_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0076,eSG_L01_21w_0076,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0079,eSG_L01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
-eSG_L01_21w_0083,eSG_L01_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0084,eSG_L01_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0087,eSG_L01_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0088,eSG_L01_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0089,eSG_L01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0094,eSG_L01_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0099,eSG_L01_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0103,eSG_L01_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0104,eSG_L01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0105,eSG_L01_21w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0112,eSG_L01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0113,eSG_L01_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0117,eSG_L01_21w_0117,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0118,eSG_L01_21w_0118 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0122,eSG_L01_21w_0122,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0123,eSG_L01_21w_0123,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0127,eSG_L01_21w_0127,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0128,eSG_L01_21w_0128,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0132,eSG_L01_21w_0132,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0133,eSG_L01_21w_0133,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0137,eSG_L01_21w_0137,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0144,eSG_L01_21w_0144,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0145,eSG_L01_21w_0145,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0150,eSG_L01_21w_0150,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0154,eSG_L01_21w_0154,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0155,eSG_L01_21w_0155,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0160,eSG_L01_21w_0160,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
-eSG_L01_21w_0165,eSG_L01_21w_0165,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0171,eSG_L01_21w_0171,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0181,eSG_L01_21w_0181,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0186,eSG_L01_21w_0186,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0190,eSG_L01_21w_0190,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0191,eSG_L01_21w_0191,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0196,eSG_L01_21w_0196,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0200,eSG_L01_21w_0200,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0201,eSG_L01_21w_0201,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0203,eSG_L01_21w_0203,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0210,eSG_L01_21w_0210,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0211,eSG_L01_21w_0211,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0216,eSG_L01_21w_0216,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0221,eSG_L01_21w_0221,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0226,eSG_L01_21w_0226,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0230,eSG_L01_21w_0230,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_21w_0231,eSG_L01_21w_0231,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
-eSG_L01_22w_0002,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0005,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0009,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0010,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0014,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0015,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0018,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0019,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0020,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0023,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0024,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0025,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0027,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0029,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0030,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0032,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0035,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0039,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0040,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0044,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0045,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0049,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0050,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0054,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0055,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0059,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0060,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
-eSG_L01_22w_0062,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0065,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0069,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0070,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0074,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0075,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0079,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0080,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0084,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0085,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0089,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0090,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0092,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0095,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0099,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0100,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0104,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0105,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0109,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0110,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0114,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0115,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0119,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0120,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0122,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
-eSG_L01_22w_0124,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0127,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0131,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0132,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0136,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0137,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
-eSG_L01_22w_0154,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0157,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0161,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0162,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0166,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0167,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0171,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0172,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0176,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0177,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0181,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
-eSG_L01_22w_0182,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+ID,Sample Barcode,Sample Label,Freezer Name,Rack Name,Box Name,Filter Type (Conditional)
+1,eLP_E01_21w_0002,eLP_E01_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+2,eLP_E01_21w_0004,eLP_E01_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+3,eLP_E01_21w_0009,eLP_E01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+4,eLP_E01_21w_0010,eLP_E01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+5,eLP_E01_21w_0012,eLP_E01_21w_0012,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/25,Supor
+6,eLP_E01_21w_0015,eLP_E01_21w_0015,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/24,Supor
+7,eLP_E01_21w_0019,eLP_E01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+8,eLP_E01_21w_0020,eLP_E01_21w_0020,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,supor_2/6/24,Supor
+9,eLP_E01_21w_0024,eLP_E01_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+10,eLP_E01_21w_0027,eLP_E01_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+11,eLP_E01_21w_0030,eLP_E01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+12,eLP_E01_21w_0031,eLP_E01_21w_0031,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+13,eLP_E01_21w_0034,eLP_E01_21w_0034,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+14,eLP_E01_21w_0035,eLP_E01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+15,eLP_E01_21w_0043,eLP_E01_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+16,eLP_E01_21w_0044,eLP_E01_21w_0044,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+17,eLP_E01_21w_0048,eLP_E01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+18,eLP_E01_21w_0049,eLP_E01_21w_0049,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+19,eLP_E01_21w_0052,eLP_E01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+20,eLP_E01_21w_0053,eLP_E01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+21,eLP_E01_21w_0055,eLP_E01_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+22,eLP_E01_21w_0057,eLP_E01_21w_0057,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+23,eLP_E01_21w_0060,eLP_E01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+24,eLP_E01_21w_0061,eLP_E01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+25,eLP_E01_21w_0064,eLP_E01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+26,eLP_E01_21w_0065,eLP_E01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+27,eLP_E01_21w_0072,eLP_E01_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+28,eLP_E01_21w_0074,eLP_E01_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+29,eLP_E01_21w_0077,eLP_E01_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+30,eLP_E01_21w_0078,eLP_E01_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+31,eLP_E01_21w_0081,eLP_E01_21w_0081,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+32,eLP_E01_21w_0082,eLP_E01_21w_0082,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+33,eLP_E01_21w_0087,eLP_E01_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+34,eLP_E01_21w_0089,eLP_E01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+35,eLP_E01_21w_0092,eLP_E01_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+36,eLP_E01_21w_0093,eLP_E01_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+37,eLP_E01_21w_0096,eLP_E01_21w_0096,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+38,eLP_E01_21w_0097,eLP_E01_21w_0097,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+39,eLP_E01_21w_0102,eLP_E01_21w_0102,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+40,eLP_E01_21w_0104,eLP_E01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+41,eLP_E01_21w_0107,eLP_E01_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+42,eLP_E01_21w_0108,eLP_E01_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+43,eLP_E01_21w_0111,eLP_E01_21w_0111,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+44,eLP_E01_21w_0112,eLP_E01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+45,eLP_E01_22w_0002,eLP_E01_22w_0002,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+46,eLP_E01_22w_0005,eLP_E01_22w_0005,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+47,eLP_E01_22w_0009,eLP_E01_22w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+48,eLP_E01_22w_0010,eLP_E01_22w_0010,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,eLP_E01_22w_0010,Supor
+49,eLP_E01_22w_0012,eLP_E01_22w_0012,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+50,eLP_E01_22w_0015,eLP_E01_22w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+51,eLP_E01_22w_0019,eLP_E01_22w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+52,eLP_E01_22w_0020,eLP_E01_22w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+53,eLP_E01_22w_0024,eLP_E01_22w_0024,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+54,eLP_E01_22w_0025,eLP_E01_22w_0025,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+55,eLP_E01_22w_0045,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+56,eLP_E01_22w_0047,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+57,eLP_E01_22w_0050,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+58,eLP_E01_22w_0051,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+59,eLP_E01_22w_0053,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+60,eLP_E01_22w_0054,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+61,eLP_E01_22w_0060,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+62,eLP_E01_22w_0062,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+63,eLP_E01_22w_0065,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+64,eLP_E01_22w_0066,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+65,eLP_E01_22w_0069,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+66,eLP_E01_22w_0070,eLP_E01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+67,eLP_E01_23w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+68,eLP_E01_23w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+69,eLP_E01_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+70,eLP_E04_21w_0002,eLP_E04_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+71,eLP_E04_21w_0005,eLP_E04_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+72,eLP_E04_21w_0009,eLP_E04_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+73,eLP_E04_21w_0010,eLP_E04_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+74,eLP_E04_21w_0012,eLP_E04_21w_0012,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+75,eLP_E04_21w_0015,eLP_E04_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+76,eLP_E04_21w_0019,eLP_E04_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+77,eLP_E04_21w_0020,eLP_E04_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+78,eLP_E04_21w_0045,eLP_E04_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+79,eLP_E04_21w_0047,eLP_E04_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+80,eLP_E04_21w_0050,eLP_E04_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+81,eLP_E04_21w_0051,eLP_E04_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+82,eLP_E04_21w_0055,eLP_E04_21w_0055 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+83,eLP_E04_21w_0060,eLP_E04_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+84,eLP_E04_21w_0062,eLP_E04_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+85,eLP_E04_21w_0065,eLP_E04_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+86,eLP_E04_21w_0066,eLP_E04_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+87,eLP_E04_21w_0069,eLP_E04_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+88,eLP_E04_21w_0070,eLP_E04_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+89,eLP_E04_21w_0099,eLP_E04_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+90,eLP_E04_21w_0102,eLP_E04_21w_0102,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+91,eLP_E04_21w_0106,eLP_E04_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+92,eLP_E04_21w_0107,eLP_E04_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+93,eLP_E04_21w_0148,eLP_E04_21w_0148,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+94,eLP_E04_21w_0150,eLP_E04_21w_0150,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+95,eLP_E04_21w_0153,eLP_E04_21w_0153,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+96,eLP_E04_21w_0154,eLP_E04_21w_0154,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+97,eLP_E04_21w_0157,eLP_E04_21w_0157,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+98,eLP_E04_21w_0158,eLP_E04_21w_0158,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+99,eLP_E04_21w_0160,eLP_E04_21w_0160,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+100,eLP_E04_21w_0162,eLP_E04_21w_0162,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+101,eLP_E04_21w_0165,eLP_E04_21w_0165,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+102,eLP_E04_21w_0166,eLP_E04_21w_0166,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+103,eLP_E04_21w_0169,eLP_E04_21w_0169,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+104,eLP_E04_21w_0170,eLP_E04_21w_0170,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+105,eLP_E04_22w_0002,eLP_E04_22w_0002,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+106,eLP_E04_22w_0005,eLP_E04_22w_0005,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+107,eLP_E04_22w_0009,eLP_E04_22w_0009,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+108,eLP_E04_22w_0010,eLP_E04_22w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+109,eLP_E04_22w_0012,eLP_E04_22w_0012,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+110,eLP_E04_22w_0014,eLP_E04_22w_0014,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+111,eLP_E04_22w_0017,eLP_E04_22w_0017,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+112,eLP_E04_22w_0018,eLP_E04_22w_0018,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+113,eLP_E04_22w_0021,eLP_E04_22w_0021,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+114,eLP_E04_22w_0022,eLP_E04_22w_0022,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+115,eLP_E04_22w_0027,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+116,eLP_E04_22w_0029,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+117,eLP_E04_22w_0032,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+118,eLP_E04_22w_0033,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+119,eLP_E04_22w_0072,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+120,eLP_E04_22w_0074,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+121,eLP_E04_22w_0077,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+122,eLP_E04_22w_0080,eLP_E04,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+123,eLP_E04_23w_0003,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+124,eLP_E04_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+125,eLP_E04_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+126,eLP_E04_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+127,eLP_L02_21w_0004,eLP_L02_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+128,eLP_L02_21w_0008,eLP_L02_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+129,eLP_L02_21w_0009,eLP_L02_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+130,eLP_L02_21w_0011,eLP_L02_21w_0011,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+131,eLP_L02_21w_0016,eLP_L02_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+132,eLP_L02_21w_0020,eLP_L02_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+133,eLP_L02_21w_0021,eLP_L02_21w_0021,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+134,eLP_L02_21w_0025,eLP_L02_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+135,eLP_L02_21w_0029,eLP_L02_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+136,eLP_L02_21w_0030,eLP_L02_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+137,eLP_L02_21w_0035,eLP_L02_21w_0035 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+138,eLP_L02_21w_0037,eLP_L02_21w_0037 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+139,eLP_L02_21w_0040,eLP_L02_21w_0040 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+140,eLP_L02_21w_0041,eLP_L02_21w_0041 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+141,eLP_L02_21w_0044,eLP_L02_21w_0044 ,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_2/17/23,Supor
+142,eLP_L02_21w_0045,eLP_L02_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+143,eLP_L02_21w_0053,eLP_L02_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+144,eLP_L02_21w_0055,eLP_L02_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+145,eLP_L02_21w_0058,eLP_L02_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+146,eLP_L02_21w_0059,eLP_L02_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+147,eLP_L02_21w_0061,eLP_L02_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+148,eLP_L02_21w_0063,eLP_L02_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+149,eLP_L02_21w_0068,eLP_L02_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+150,eLP_L02_21w_0070,eLP_L02_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+151,eLP_L02_21w_0073,eLP_L02_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+152,eLP_L02_21w_0074,eLP_L02_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+153,eLP_L02_21w_0077,eLP_L02_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+154,eLP_L02_21w_0078,eLP_L02_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+155,eLP_L02_21w_0083,eLP_L02_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+156,eLP_L02_21w_0085,eLP_L02_21w_0085,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+157,eLP_L02_21w_0087,eLP_L02_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+158,eLP_L02_21w_0089,eLP_L02_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+159,eLP_L02_21w_0092,eLP_L02_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+160,eLP_L02_21w_0093,eLP_L02_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+161,eLP_L02_21w_0098,eLP_L02_21w_0098,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+162,eLP_L02_21w_0100,eLP_L02_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+163,eLP_L02_21w_0103,eLP_L02_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+164,eLP_L02_21w_0104,eLP_L02_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+165,eLP_L02_21w_0107,eLP_L02_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+166,eLP_L02_21w_0108,eLP_L02_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+167,eLP_L02_21w_0145,eLP_L02_21w_0145,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+168,eLP_L02_21w_0148,eLP_L02_21w_0148,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+169,eLP_L02_21w_0149,eLP_L02_21w_0149,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+170,eLP_L02_21w_0152,eLP_L02_21w_0152,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+171,eLP_L02_21w_0153,eLP_L02_21w_0153,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+172,eLP_L02_21w_0155,eLP_L02_21w_0155,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+173,eLP_L02_22w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+174,eLP_L02_22w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+175,eLP_L02_22w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+176,eLP_L02_22w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+177,eLP_L02_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+178,eLP_L02_22w_0012,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+179,eLP_L02_22w_0019,eLP_L02_22w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+180,eLP_L02_22w_0022,eLP_L02_22w_0022,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+181,eLP_L02_22w_0023,eLP_L02_22w_0023,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor_1-27-23,Supor
+182,eLP_L02_22w_0026,eLP_L02_22w_0026,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+183,eLP_L02_22w_0033,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+184,eLP_L02_22w_0034,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+185,eLP_L02_22w_0037,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+186,eLP_L02_22w_0039,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+187,eLP_L02_22w_0043,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+188,eLP_L02_22w_0047,eLP_L02,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+189,eLP_L02_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+190,eLP_L02_23w_0004,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+191,eLP_L02_23w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+192,eLP_L02_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+193,eLP_L02_23w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+194,eLP_L02_23w_0012,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+195,eLP_S01_21w_0003,eLP_S01_21w_0003,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+196,eLP_S01_21w_0007,eLP_S01_21w_0007,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+197,eLP_S01_21w_0008,eLP_S01_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+198,eLP_S01_21w_0010,eLP_S01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+199,eLP_S01_21w_0012,eLP_S01_21w_0012,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+200,eLP_S01_21w_0015,eLP_S01_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+201,eLP_S01_21w_0019,eLP_S01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+202,eLP_S01_21w_0020,eLP_S01_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+203,eLP_S01_21w_0025,eLP_S01_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+204,eLP_S01_21w_0029,eLP_S01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+205,eLP_S01_21w_0030,eLP_S01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+206,eLP_S01_21w_0032,eLP_S01_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+207,eLP_S01_21w_0035,eLP_S01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+208,eLP_S01_21w_0039,eLP_S01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+209,eLP_S01_21w_0040,eLP_S01_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+210,eLP_S01_21w_0054,eLP_S01_21w_0054,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+211,eLP_S01_21w_0061,eLP_S01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+212,eLP_S01_21w_0062,eLP_S01_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/6/23,Supor
+213,eLP_S01_21w_0064,eLP_S01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+214,eLP_S01_21w_0067,eLP_S01_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+215,eLP_S01_21w_0072,eLP_S01_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+216,eLP_S01_21w_0075,eLP_S01_21w_0075,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+217,eLP_S01_21w_0079,eLP_S01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+218,eLP_S01_21w_0080,eLP_S01_21w_0080,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+219,eLP_S01_21w_0081,eLP_S01_21w_0081,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+220,eLP_S01_21w_0082,eLP_S01_21w_0082,Maine-eDNA (Hitchner),Supor_Rack_2,supor_2/17/23,Supor
+221,eLP_S01_21w_0133,eLP_S01_21w_0133,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+222,eLP_S01_21w_0135,eLP_S01_21w_0135,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+223,eLP_S01_21w_0139,eLP_S01_21w_0139,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+224,eLP_S01_21w_0140,eLP_S01_21w_0140,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+225,eLP_S01_22w_0015,eLP_S01_22w_0015,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+226,eLP_S01_22w_0018,eLP_S01_22w_0018,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+227,eLP_S01_22w_0022,eLP_S01_22w_0022,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+228,eLP_S01_22w_0023,eLP_S01_22w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+229,eLP_S01_22w_0025,eLP_S01_22w_0025,Kinnison lab (Murray),Additional Penobscot Index Filters + 4 Boxes from Machias,Supor-1-27-23,Supor
+230,eLP_S01_22w_0028,eLP_S01_22w_0028,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+231,eLP_S01_22w_0032,eLP_S01_22w_0032,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+232,eLP_S01_22w_0033,eLP_S01_22w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+233,eLP_S01_22w_0050,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+234,eLP_S01_22w_0052,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+235,eLP_S01_22w_0055,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+236,eLP_S01_22w_0056,eLP_S01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_3/27/23,Supor
+237,eLP_S01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+238,eLP_S01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+239,eLP_S01_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+240,eLP_S01_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+241,eMC_C01_21w_0001,eMC_C01_21w_0001,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+242,eMC_C01_21w_0005,eMC_C01_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+243,eMC_C01_21w_0009,eMC_C01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+244,eMC_C01_21w_0010,eMC_C01_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+245,eMC_C01_21w_0011,eMC_C01_21w_0011,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+246,eMC_C01_21w_0013,eMC_C01_21w_0013,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+247,eMC_C01_21w_0015,eMC_C01_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+248,eMC_C01_21w_0018,eMC_C01_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+249,eMC_C01_21w_0019,eMC_C01_21w_0019,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+250,eMC_C01_21w_0022,eMC_C01_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+251,eMC_C01_21w_0023,eMC_C01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+252,eMC_C01_21w_0028,eMC_C01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+253,eMC_C01_21w_0029,eMC_C01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+254,eMC_C01_21w_0030,eMC_C01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+255,eMC_C05_21w_0027,eMC_C05_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+256,eMC_C05_21w_0028,eMC_C05_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+257,eMC_C05_21w_0033,eMC_C05_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+258,eMC_C05_21w_0034,eMC_C05_21w_0034,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+259,eMC_C05_21w_0043,eMC_C05_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+260,eMC_C05_21w_0049,eMC_C05_21w_0049,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+261,emc_c05_21w_0050,emc_c05_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+262,eMC_C05_21w_0059,eMC_C05_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+263,emc_C05_21w_0060,emc_C05_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+264,emc_C05_21w_0066,emc_C05_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+265,emc_C05_21w_0093,emc_C05_21w_0093,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+266,eMC_C05_21w_0094,eMC_C05_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+267,eMC_C05_21w_0099,eMC_C05_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+268,emc_C05_21w_0100,emc_C05_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+269,emc_C05_21w_0109,emc_C05_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+270,eMC_C05_21w_0110,eMC_C05_21w_0110,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+271,emc_C05_21w_0115,emc_C05_21w_0115,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+272,emc_C05_21w_0116,emc_C05_21w_0116,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+273,eMC_C06_21w_0008,eMC_C06_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+274,eMC_C06_21w_0009,eMC_C06_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+275,eMC_C06_21w_0014,eMC_C06_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+276,eMC_C06_21w_0015,eMC_C06_21w_0015,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+277,eMC_C06_21w_0024,eMC_C06_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+278,eMC_C06_21w_0025,eMC_C06_21w_0025,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+279,eMC_C06_21w_0030,eMC_C06_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+280,eMC_C06_21w_0031,eMC_C06_21w_0031,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+281,eMC_C06_21w_0040,eMC_C06_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+282,eMC_C06_21w_0041,eMC_C06_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+283,eMC_C06_21w_0046,eMC_C06_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+284,eMC_C06_21w_0047,eMC_C06_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+285,eMC_C06_21w_0052,eMC_C06_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+286,eMC_C06_21w_0053,eMC_C06_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+287,eMC_C06_21w_0058,eMC_C06_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+288,eMC_C06_21w_0059,eMC_C06_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+289,eMC_C06_21w_0072,eMC_C06_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+290,eMC_C06_21w_0073,eMC_C06_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+291,eMC_C06_21w_0078,eMC_C06_21w_0078,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+292,eMC_C06_21w_0079,eMC_C06_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+293,eMC_C06_21w_0088,eMC_C06_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+294,eMC_C06_21w_0089,eMC_C06_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+295,eMC_C06_21w_0146,eMC_C06_21w_0146,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+296,eMC_C06_21w_0147,eMC_C06_21w_0147,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+297,eMC_L01_21w_0029,eMC_L01_21w_0029,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+298,eMC_L01_21w_0030,eMC_L01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+299,eMC_L01_21w_0035,eMC_L01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+300,eMC_L01_21w_0036,eMC_L01_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+301,emc_l01_21w_0045,emc_l01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+302,eMC_L01_21w_0046,eMC_L01_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+303,emc_l01_21w_0051,emc_l01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+304,emc_l01_21w_0052,emc_l01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+305,emc_L01_21w_0059,emc_L01_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+306,emc_L01_21w_0060,emc_L01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+307,eMC_S01_21w_0027,eMC_S01_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+308,eMC_S01_21w_0028,eMC_S01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+309,emc_s01_21w_0039,emc_s01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+310,emc_s01_21w_0040,emc_s01_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+311,emc_S01_21w_0048,emc_S01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+312,emc_S01_21w_0065,emc_S01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+313,eMC_S01_21w_0066,eMC_S01_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+314,emc_S01_21w_0068,emc_S01_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+315,emc_S01_21w_0069,emc_S01_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor_1/31/23,Supor
+316,eMC_S01_21w_0078,eMC_S01_21w_0078,Kinnison lab (Murray),Additional Penobscot index filters + 4 boxes from machias,Supor_2/3/23,Supor
+317,eMC_S01_21w_0079,eMC_S01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/31/23,Supor
+318,ePR_E01_21w_0045,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+319,ePR_E01_21w_0046,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+320,ePR_E01_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+321,ePR_E01_21w_0050,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+322,ePR_E01_21w_0053,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+323,ePR_E01_21w_0059,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+324,ePR_E01_21w_0060,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+325,ePR_E01_21w_0063,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+326,ePR_E01_21w_0064,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+327,ePR_E01_21w_0068,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+328,ePR_E01_21w_0069,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+329,ePR_E01_21w_0073,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+330,ePR_E01_21w_0074,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+331,ePR_E01_21w_0078,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+332,ePR_E01_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+333,ePR_E01_21w_0082,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+334,ePR_E01_21w_0083,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+335,ePR_E01_21w_0087,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+336,ePR_E01_21w_0091,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+337,ePR_E01_21w_0092,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+338,ePR_E01_21w_0095,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+339,ePR_E01_21w_0096,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+340,ePR_E01_21w_0100,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+341,ePR_E01_21w_0101,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+342,ePR_E01_21w_0102,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+343,ePR_E01_21w_0105,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+344,ePR_E01_21w_0106,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+345,ePR_E01_21w_0110,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+346,ePR_E01_21w_0111,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+347,ePR_E01_22w_0095,ePR_E01_22w_0095,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+348,ePR_E01_22w_0097,ePR_E01_22w_0097,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+349,ePR_E01_22w_0098,ePR_E01_22w_0098,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+350,ePR_E01_22w_0100,ePR_E01_22w_0100,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+351,ePR_E01_22w_0105,ePR_E01_22w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+352,ePR_E01_22w_0111,ePR_E01_22w_0111,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+353,ePR_E01_22w_0114,ePR_E01_22w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+354,ePR_E01_22w_0115,ePR_E01_22w_0115,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+355,ePR_E01_22w_0119,ePR_E01_22w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+356,ePR_E01_22w_0120,ePR_E01_22w_0120,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+357,ePR_E01_22w_0124,ePR_E01_22w_0124,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+358,ePR_E01_22w_0128,ePR_E01_22w_0128,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+359,ePR_E01_22w_0129,ePR_E01_22w_0129,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+360,ePR_E01_22w_0133,ePR_E01_22w_0133,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+361,ePR_E01_22w_0134,ePR_E01_22w_0134,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+362,ePR_E01_22w_0138,ePR_E01_22w_0138,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+363,ePR_E01_22w_0140,ePR_E01_22w_0140,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+364,ePR_E01_22w_0145,ePR_E01_22w_0145,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+365,ePR_E01_22w_0149,ePR_E01_22w_0149,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+366,ePR_E01_22w_0150,ePR_E01_22w_0150,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+367,ePR_E01_23w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+368,ePR_E01_23w_0018,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+369,ePR_E01_23w_0022,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+370,ePR_E01_23w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+371,ePR_E01_23w_0027,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+372,ePR_E01_23w_0028,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+373,ePR_E02_21w_0030,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+374,ePR_E02_21w_0031,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+375,ePR_E02_21w_0034,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+376,ePR_E02_21w_0035,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+377,ePR_E02_21w_0039,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+378,ePR_E02_21w_0040,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+379,ePR_E02_21w_0043,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+380,ePR_E02_21w_0044,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+381,ePR_E02_21w_0048,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+382,ePR_E02_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+383,ePR_E02_21w_0052,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+384,ePR_E02_21w_0053,,Maine-eDNA (Hitchner),Supor_Rack_3,supor2_4/12/23,Supor
+385,ePR_E02_21w_0057,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+386,ePR_E02_21w_0058,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+387,ePR_E02_21w_0061,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+388,ePR_E02_21w_0062,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_4/17/23,Supor
+389,ePR_E02_21w_0066,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+390,ePR_E02_21w_0067,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+391,ePR_E02_21w_0070,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+392,ePR_E02_21w_0071,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+393,ePR_E02_21w_0099,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+394,ePR_E02_21w_0100,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+395,ePR_E02_21w_0103,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+396,ePR_E02_21w_0104,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+397,ePR_E02_21w_0108,ePR_E02_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+398,ePR_E02_21w_0110,ePR_E02_21w_0110,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+399,ePR_E02_21w_0111,ePR_E02_21w_0111,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+400,ePR_E02_21w_0113,ePR_E02_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+401,ePR_E02_22w_0063,ePR_E02_22w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+402,ePR_E02_22w_0064,ePR_E02_22w_0064,Kinnison lab (Murray),Additional Penobscot Index Filters +4 Boxes From Machias,Supor_1-27-23,Supor
+403,ePR_E02_22w_0067,ePR_E02_22w_0067,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_1/27/23,Supor
+404,ePR_E02_22w_0073,ePR_E02_22w_0073,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+405,ePR_E02_22w_0074,ePR_E02_22w_0074,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+406,ePR_E02_22w_0076,ePR_E02_22w_0076,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+407,ePR_E02_22w_0080,ePR_E02_22w_0080,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+408,ePR_E02_22w_0082,ePR_E02_22w_0082,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+409,ePR_E02_22w_0084,ePR_E02_22w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+410,ePR_E02_22w_0085,ePR_E02_22w_0085,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+411,ePR_E02_22w_0091,ePR_E02_22w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+412,ePR_E02_22w_0092,ePR_E02_22w_0092,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+413,ePR_E02_22w_0096,ePR_E02_22w_0096,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+414,ePR_E02_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+415,ePR_E02_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+416,ePR_E02_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+417,ePR_E02_23w_0009,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+418,ePR_E02_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+419,ePR_E02_23w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+420,ePR_E02_23w_0013,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+421,ePR_E02_23w_0017,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+422,ePR_E02_23w_0018,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+423,ePR_L01_21w_0007,ePR_L01_21w_0007,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+424,ePR_L01_21w_0008,ePR_L01_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+425,ePR_L01_21w_0023,ePR_L01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+426,ePR_L01_21w_0026,ePR_L01_21w_0026,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+427,ePR_L01_21w_0030,ePR_L01_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+428,ePR_L01_21w_0035,ePR_L01_21w_0035,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+429,ePR_L01_21w_0036,ePR_L01_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+430,ePR_L01_21w_0039,ePR_L01_21w_0039,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+431,ePR_L01_21w_0047,ePR_L01_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+432,ePR_L01_21w_0051,ePR_L01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+433,ePR_L01_21w_0052,ePR_L01_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+434,ePR_L01_21w_0058,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+435,ePR_L01_21w_0059,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+436,ePR_L01_21w_0064,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+437,ePR_L01_21w_0065,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+438,ePR_L01_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+439,ePR_L01_21w_0082,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+440,ePR_L01_21w_0087,,Kinnison lab (Murray),,Supor_5/10/23,Supor
+441,ePR_L01_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+442,ePR_L01_21w_0092,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+443,ePR_L01_21w_0093,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+444,ePR_L01_21w_0098,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+445,ePR_L01_21w_0099,,Kinnison lab (Murray),,,Supor
+446,ePR_L01_21w_0108,ePR_L01_21w_0108,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+447,ePR_L01_21w_0112,ePR_L01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+448,ePR_L01_21w_0118,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+449,ePR_L01_21w_0122,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+450,ePR_L01_21w_0123,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+451,ePR_L01_21w_0127,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+452,ePR_L01_21w_0128,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+453,ePR_L01_22w_0003,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+454,ePR_L01_22w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+455,ePR_L01_22w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+456,ePR_L01_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+457,ePR_L01_22w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+458,ePR_L01_22w_0019,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+459,ePR_L01_22w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+460,ePR_L01_22w_0024,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+461,ePR_L01_22w_0035,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+462,ePR_L01_22w_0038,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+463,ePR_L01_22w_0042,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+464,ePR_L01_22w_0043,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+465,ePR_L01_22w_0047,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+466,ePR_L01_22w_0048,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+467,ePR_L01_22w_0051,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+468,ePR_L01_22w_0054,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+469,ePR_L01_22w_0058,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+470,ePR_L01_22w_0059,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+471,ePR_L01_22w_0063,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+472,ePR_L01_22w_0064,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+473,ePR_L01_22w_0066,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+474,ePR_L01_22w_0069,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+475,ePR_L01_22w_0073,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+476,ePR_L01_22w_0074,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+477,ePR_L01_22w_0078,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+478,ePR_L01_22w_0079,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+479,ePR_L01_22w_0081,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+480,ePR_L01_22w_0084,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+481,ePR_L01_22w_0088,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+482,ePR_L01_22w_0089,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+483,ePR_L01_22w_0093,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+484,ePR_L01_22w_0094,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+485,ePR_L01_22w_0096,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+486,ePR_L01_22w_0097,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+487,ePR_L01_22w_0100,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+488,ePR_L01_22w_0103,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+489,ePR_L01_22w_0104,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+490,ePR_L01_22w_0106,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+491,ePR_L01_22w_0108,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+492,ePR_L01_22w_0109,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+493,ePR_L01_22w_0130,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+494,ePR_L01_22w_0131,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+495,ePR_L01_22w_0135,,Kinnison lab (Murray),,,Supor
+496,ePR_L01_22w_0136,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+497,ePR_L01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+498,ePR_L01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+499,ePR_L01_23w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+500,ePR_L01_23w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+501,ePR_L01_23w_0012,,Kinnison lab (Murray),,Supor_5/10/23,Supor
+502,ePR_L01_23w_0013,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+503,ePR_S01_21w_0001,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+504,ePR_S01_21w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+505,ePR_S01_21w_0014,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+506,ePR_S01_21w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+507,ePR_S01_21w_0042,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+508,ePR_S01_21w_0049,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+509,ePR_S01_21w_0050,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+510,ePR_S01_21w_0056,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+511,ePR_S01_21w_0057,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+512,ePR_S01_21w_0084,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+513,ePR_S01_21w_0085,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+514,ePR_S01_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+515,ePR_S01_21w_0120,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+516,ePR_S01_21w_0122,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+517,ePR_S01_21w_0123,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+518,ePR_S01_21w_0127,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+519,ePR_S01_21w_0130,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+520,ePR_S01_21w_0131,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+521,ePR_S01_21w_0135,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+522,ePR_S01_21w_0139,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+523,ePR_S01_22w_0007,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+524,ePR_S01_22w_0008,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+525,ePR_S01_22w_0011,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+526,ePR_S01_22w_0015,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+527,ePR_S01_22w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+528,ePR_S01_22w_0027,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+529,ePR_S01_22w_0030,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+530,ePR_S01_22w_0034,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+531,ePR_S01_22w_0035,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+532,ePR_S01_22w_0038,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+533,ePR_S01_22w_0042,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+534,ePR_S01_22w_0043,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+535,ePR_S01_22w_0046,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+536,ePR_S01_22w_0052,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+537,ePR_S01_22w_0053,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+538,ePR_S01_22w_0055,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+539,ePR_S01_22w_0058,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+540,ePR_S01_22w_0061,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+541,ePR_S01_22w_0062,,Kinnison lab (Murray),,supor_2_5/10/23,Supor
+542,ePR_S01_22w_0066,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+543,ePR_S01_22w_0069,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+544,ePR_S01_22w_0073,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+545,ePR_S01_22w_0074,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+546,ePR_S01_23w_0002,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+547,ePR_S01_23w_0005,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+548,ePR_S01_23w_0006,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_5/10/23,Supor
+549,ePR_S01_23w_0010,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+550,epr_s01_23w_0015,,Kinnison lab (Murray),,supor_5/10/23,Supor
+551,ePR_S01_23w_0016,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+552,ePR_S01_23w_0020,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+553,ePR_S01_23w_0022,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+554,ePR_S01_23w_0023,,Maine-eDNA (Hitchner),Supor_Rack_3,supor_5/10/23,Supor
+555,ePS_C01_21w_0038,ePS_C01_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+556,ePS_C01_21w_0041,ePS_C01_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+557,ePS_C01_21w_0045,ePS_C01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+558,ePS_C01_21w_0046,ePS_C01_21w_0046,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+559,ePS_C01_21w_0050,ePS_C01_21w_0050,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+560,ePS_C01_21w_0051,ePS_C01_21w_0051,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+561,ePS_C01_21w_0053,ePS_C01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+562,ePS_C01_21w_0056,ePS_C01_21w_0056,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+563,ePS_C01_21w_0060,ePS_C01_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+564,ePS_C01_21w_0061,ePS_C01_21w_0061,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+565,ePS_C01_21w_0065,ePS_C01_21w_0065,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+566,ePS_C01_21w_0066,ePS_C01_21w_0066,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+567,eSG_C02_21w_0079,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+568,eSG_C02_21w_0080,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+569,eSG_C02_21w_0083,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+570,eSG_C02_21w_0084,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+571,eSG_C02_21w_0088,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+572,eSG_C02_21w_0089,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+573,eSG_C05_21w_0004,eSG_C05_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+574,eSG_C05_21w_0005,eSG_C05_21w_0005,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+575,eSG_C05_21w_0009,eSG_C05_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+576,eSG_C05_21w_0010,eSG_C05_21w_0010,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+577,eSG_C05_21w_0014,eSG_C05_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+578,eSG_C05_21w_0018,eSG_C05_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+579,eSG_C05_21w_0020,eSG_C05_21w_0020,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+580,eSG_C05_21w_0024,eSG_C05_21w_0024,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+581,eSG_C05_21w_0027,eSG_C05_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+582,eSG_C05_21w_0032,eSG_C05_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+583,eSG_C05_21w_0033,eSG_C05_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+584,eSG_C05_21w_0037,eSG_C05_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+585,eSG_C05_21w_0038,eSG_C05_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+586,eSG_C05_21w_0040,eSG_C05_21w_0040,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+587,eSG_C05_21w_0043,eSG_C05_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+588,eSG_C05_21w_0047,eSG_C05_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+589,eSG_C05_21w_0048,eSG_C05_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+590,eSG_C05_21w_0052,eSG_C05_21w_0052,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+591,eSG_C05_21w_0053,eSG_C05_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+592,eSG_C05_21w_0055,eSG_C05_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+593,eSG_C05_21w_0058,eSG_C05_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+594,eSG_C05_21w_0062,eSG_C05_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+595,eSG_C05_21w_0063,eSG_C05_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+596,eSG_C05_21w_0067,eSG_C05_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+597,eSG_C05_21w_0068,eSG_C05_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+598,eSG_E01_21w_0002,eSG_E01_21w_0002 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+599,eSG_E01_21w_0009,eSG_E01_21w_0009 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+600,eSG_E01_21w_0013,eSG_E01_21w_0013 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+601,eSG_E01_21w_0014,eSG_E01_21w_0014 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+602,eSG_E01_21w_0016,eSG_E01_21w_0016 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+603,eSG_E01_21w_0023,eSG_E01_21w_0023 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+604,eSG_E01_21w_0027,eSG_E01_21w_0027 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+605,eSG_E01_21w_0028,eSG_E01_21w_0028 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+606,eSG_E01_21w_0030,eSG_E01_21w_0030 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+607,eSG_E01_21w_0032,eSG_E01_21w_0032 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+608,eSG_E01_21w_0037,eSG_E01_21w_0037 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+609,eSG_E01_21w_0041,eSG_E01_21w_0041 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+610,eSG_E01_21w_0042,eSG_E01_21w_0042 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+611,eSG_E01_21w_0045,eSG_E01_21w_0045 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+612,eSG_E01_21w_0048,eSG_E01_21w_0048 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+613,eSG_E01_21w_0051,eSG_E01_21w_0051 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+614,eSG_E01_21w_0058,eSG_E01_21w_0058 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+615,eSG_E01_21w_0061,eSG_E01_21w_0061 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+616,eSG_E01_21w_0069,eSG_E01_21w_0069 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+617,eSG_E01_21w_0074,eSG_E01_21w_0074 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+618,eSG_E01_21w_0076,eSG_E01_21w_0076 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+619,eSG_E01_21w_0079,eSG_E01_21w_0079 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+620,eSG_E01_21w_0083,eSG_E01_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+621,eSG_E01_21w_0084,eSG_E01_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+622,eSG_E01_21w_0088,eSG_E01_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+623,eSG_E01_21w_0089,eSG_E01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+624,eSG_E01_21w_0091,eSG_E01_21w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+625,eSG_E01_21w_0094,eSG_E01_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+626,eSG_E01_21w_0098,eSG_E01_21w_0098,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+627,eSG_E01_21w_0099,eSG_E01_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+628,eSG_E01_21w_0103,eSG_E01_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+629,eSG_E01_21w_0104,eSG_E01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+630,eSG_E01_21w_0106,eSG_E01_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+631,eSG_E01_21w_0109,eSG_E01_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+632,eSG_E01_21w_0113,eSG_E01_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+633,eSG_E01_21w_0114,eSG_E01_21w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+634,eSG_E01_21w_0118,eSG_E01_21w_0118,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+635,eSG_E01_21w_0119,eSG_E01_21w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor2_2/22/23,Supor
+636,eSG_E01_22w_0085,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+637,eSG_E01_22w_0089,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+638,eSG_E01_22w_0090,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+639,eSG_E01_22w_0092,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+640,eSG_E01_22w_0095,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+641,eSG_E01_22w_0099,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+642,eSG_E01_22w_0100,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+643,eSG_E01_22w_0104,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+644,eSG_E01_22w_0105,eSG_E01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+645,eSG_E02_21w_0002,eSG_E02_21w_0002,Maine-eDNA (Hitchner),Archive_Rack_1,archive3_2/17/23,Supor
+646,eSG_E02_21w_0008,eSG_E02_21w_0008,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+647,eSG_E02_21w_0009,eSG_E02_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+648,eSG_E02_21w_0014,eSG_E02_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+649,eSG_E02_21w_0016,eSG_E02_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+650,eSG_E02_21w_0022,eSG_E02_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+651,eSG_E02_21w_0023,eSG_E02_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+652,eSG_E02_21w_0027,eSG_E02_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+653,eSG_E02_21w_0028,eSG_E02_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+654,eSG_E02_21w_0030,eSG_E02_21w_0030,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+655,eSG_E02_21w_0032,eSG_E02_21w_0032,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+656,eSG_E02_21w_0036,eSG_E02_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+657,eSG_E02_21w_0037,eSG_E02_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+658,eSG_E02_21w_0041,eSG_E02_21w_0041,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+659,eSG_E02_21w_0042,eSG_E02_21w_0042,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+660,eSG_E02_21w_0045,eSG_E02_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+661,eSG_E02_21w_0048,eSG_E02_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+662,eSG_E02_21w_0053,eSG_E02_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+663,eSG_E02_21w_0057,eSG_E02_21w_0057,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+664,eSG_E02_21w_0058,eSG_E02_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+665,eSG_E02_21w_0060,eSG_E02_21w_0060,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+666,eSG_E02_21w_0067,eSG_E02_21w_0067,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+667,eSG_E02_21w_0068,eSG_E02_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+668,eSG_E02_21w_0072,eSG_E02_21w_0072,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+669,eSG_E02_21w_0073,eSG_E02_21w_0073,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+670,eSG_E02_21w_0076,eSG_E02_21w_0076,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+671,eSG_E02_21w_0084,eSG_E02_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+672,eSG_E02_21w_0089,eSG_E02_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+673,eSG_E02_21w_0091,eSG_E02_21w_0091,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+674,eSG_E02_21w_0094,eSG_E02_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+675,eSG_E02_21w_0099,eSG_E02_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+676,eSG_E02_21w_0103,eSG_E02_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+677,eSG_E02_21w_0104,eSG_E02_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+678,eSG_E02_21w_0106,eSG_E02_21w_0106,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+679,eSG_E02_21w_0109,eSG_E02_21w_0109,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+680,eSG_E02_21w_0114,eSG_E02_21w_0114,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+681,eSG_E02_21w_0118,eSG_E02_21w_0118,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+682,eSG_E02_21w_0119,eSG_E02_21w_0119,Maine-eDNA (Hitchner),Supor_Rack_1,Supor3_2/17/23,Supor
+683,eSG_E02_22w_0002,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+684,eSG_E02_22w_0005,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+685,eSG_E02_22w_0009,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+686,eSG_E02_22w_0010,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+687,eSG_E02_22w_0014,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+688,eSG_E02_22w_0015,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+689,eSG_E02_22w_0018,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+690,eSG_E02_22w_0022,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+691,eSG_E02_22w_0023,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+692,eSG_E02_22w_0027,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+693,eSG_E02_22w_0028,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+694,eSG_E02_22w_0032,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+695,eSG_E02_22w_0039,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+696,eSG_E02_22w_0045,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+697,eSG_E02_22w_0048,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+698,eSG_E02_22w_0052,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+699,eSG_E02_22w_0053,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+700,eSG_E02_22w_0057,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+701,eSG_E02_22w_0058,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+702,eSG_E02_22w_0060,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+703,eSG_E02_22w_0063,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+704,eSG_E02_22w_0067,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+705,eSG_E02_22w_0068,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+706,eSG_E02_22w_0072,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+707,eSG_E02_22w_0073,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+708,eSG_E02_22w_0075,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+709,eSG_E02_22w_0078,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+710,eSG_E02_22w_0082,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+711,eSG_E02_22w_0083,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+712,eSG_E02_22w_0087,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+713,eSG_E02_22w_0088,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+714,eSG_E02_22w_0093,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+715,eSG_E02_22w_0097,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+716,eSG_E02_22w_0098,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+717,eSG_E02_22w_0102,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+718,eSG_E02_22w_0103,eSG_E02,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+719,eSG_E03_21w_0002,eSG_E03_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+720,eSG_E03_21w_0009,eSG_E03_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+721,eSG_E03_21w_0014,eSG_E03_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+722,eSG_E03_21w_0016,eSG_E03_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+723,eSG_E03_21w_0023,eSG_E03_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+724,eSG_E03_21w_0027,eSG_E03_21w_0027,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+725,eSG_E03_21w_0028,eSG_E03_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+726,eSG_E03_21w_0036,eSG_E03_21w_0036,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+727,eSG_E03_21w_0037,eSG_E03_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+728,eSG_E03_21w_0042,eSG_E03_21w_0042,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+729,eSG_E03_21w_0045,eSG_E03_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+730,eSG_E03_21w_0047,eSG_E03_21w_0047,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+731,eSG_E03_21w_0055,eSG_E03_21w_0055,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+732,eSG_E03_21w_0058,eSG_E03_21w_0058,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+733,eSG_E03_21w_0062,eSG_E03_21w_0062,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+734,eSG_E03_21w_0069,eSG_E03_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+735,eSG_E03_21w_0070,eSG_E03_21w_0070,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+736,eSG_E03_21w_0074,eSG_E03_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+737,eSG_E03_21w_0075,eSG_E03_21w_0075,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+738,eSG_E03_21w_0077,eSG_E03_21w_0077,Maine-eDNA (Hitchner),Supor_Rack_1,supor3_2/17/23,Supor
+739,eSG_E03_21w_0084,eSG_E03_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+740,eSG_E03_21w_0085,eSG_E03_21w_0085,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+741,eSG_E03_21w_0090,eSG_E03_21w_0090,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+742,eSG_E03_21w_0092,eSG_E03_21w_0092,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+743,eSG_E03_21w_0100,eSG_E03_21w_0100,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+744,eSG_E03_21w_0105,eSG_E03_21w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+745,eSG_E03_21w_0107,eSG_E03_21w_0107,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+746,eSG_E03_21w_0110,eSG_E03_21w_0110,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+747,eSG_E03_21w_0115,eSG_E03_21w_0115,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+748,eSG_E03_21w_0120,eSG_E03_21w_0120,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+749,eSG_E03_22w_0077,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+750,eSG_E03_22w_0080,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+751,eSG_E03_22w_0084,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+752,eSG_E03_22w_0085,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+753,eSG_E03_22w_0089,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+754,eSG_E03_22w_0090,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+755,eSG_E03_22w_0092,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+756,eSG_E03_22w_0095,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+757,eSG_E03_22w_0099,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+758,eSG_E03_22w_0100,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+759,eSG_E03_22w_0104,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+760,eSG_E03_22w_0105,eSG_E03,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+761,eSG_L01_21w_0002,eSG_L01_21w_0002,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+762,eSG_L01_21w_0004,eSG_L01_21w_0004,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+763,eSG_L01_21w_0009,eSG_L01_21w_0009,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+764,eSG_L01_21w_0014,eSG_L01_21w_0014,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+765,eSG_L01_21w_0016,eSG_L01_21w_0016,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+766,eSG_L01_21w_0018,eSG_L01_21w_0018,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+767,eSG_L01_21w_0022,eSG_L01_21w_0022,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+768,eSG_L01_21w_0023,eSG_L01_21w_0023,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+769,eSG_L01_21w_0028,eSG_L01_21w_0028,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+770,eSG_L01_21w_0033,eSG_L01_21w_0033,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+771,eSG_L01_21w_0037,eSG_L01_21w_0037,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+772,eSG_L01_21w_0038,eSG_L01_21w_0038,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+773,eSG_L01_21w_0043,eSG_L01_21w_0043,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+774,eSG_L01_21w_0045,eSG_L01_21w_0045,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+775,eSG_L01_21w_0048,eSG_L01_21w_0048,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+776,eSG_L01_21w_0053,eSG_L01_21w_0053,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+777,eSG_L01_21w_0054,eSG_L01_21w_0054,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+778,eSG_L01_21w_0059,eSG_L01_21w_0059,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+779,eSG_L01_21w_0063,eSG_L01_21w_0063,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+780,eSG_L01_21w_0064,eSG_L01_21w_0064,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+781,eSG_L01_21w_0068,eSG_L01_21w_0068,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+782,eSG_L01_21w_0069,eSG_L01_21w_0069,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+783,eSG_L01_21w_0074,eSG_L01_21w_0074,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+784,eSG_L01_21w_0076,eSG_L01_21w_0076,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+785,eSG_L01_21w_0079,eSG_L01_21w_0079,Maine-eDNA (Hitchner),Supor_Rack_2,supor2_2/17/23,Supor
+786,eSG_L01_21w_0083,eSG_L01_21w_0083,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+787,eSG_L01_21w_0084,eSG_L01_21w_0084,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+788,eSG_L01_21w_0087,eSG_L01_21w_0087,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+789,eSG_L01_21w_0088,eSG_L01_21w_0088,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+790,eSG_L01_21w_0089,eSG_L01_21w_0089,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+791,eSG_L01_21w_0094,eSG_L01_21w_0094,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+792,eSG_L01_21w_0099,eSG_L01_21w_0099,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+793,eSG_L01_21w_0103,eSG_L01_21w_0103,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+794,eSG_L01_21w_0104,eSG_L01_21w_0104,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+795,eSG_L01_21w_0105,eSG_L01_21w_0105,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+796,eSG_L01_21w_0112,eSG_L01_21w_0112,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+797,eSG_L01_21w_0113,eSG_L01_21w_0113,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+798,eSG_L01_21w_0117,eSG_L01_21w_0117,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+799,eSG_L01_21w_0118,eSG_L01_21w_0118 ,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+800,eSG_L01_21w_0122,eSG_L01_21w_0122,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+801,eSG_L01_21w_0123,eSG_L01_21w_0123,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+802,eSG_L01_21w_0127,eSG_L01_21w_0127,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+803,eSG_L01_21w_0128,eSG_L01_21w_0128,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+804,eSG_L01_21w_0132,eSG_L01_21w_0132,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+805,eSG_L01_21w_0133,eSG_L01_21w_0133,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+806,eSG_L01_21w_0137,eSG_L01_21w_0137,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+807,eSG_L01_21w_0144,eSG_L01_21w_0144,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+808,eSG_L01_21w_0145,eSG_L01_21w_0145,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+809,eSG_L01_21w_0150,eSG_L01_21w_0150,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+810,eSG_L01_21w_0154,eSG_L01_21w_0154,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+811,eSG_L01_21w_0155,eSG_L01_21w_0155,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+812,eSG_L01_21w_0160,eSG_L01_21w_0160,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/21/23,Supor
+813,eSG_L01_21w_0165,eSG_L01_21w_0165,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+814,eSG_L01_21w_0171,eSG_L01_21w_0171,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+815,eSG_L01_21w_0181,eSG_L01_21w_0181,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+816,eSG_L01_21w_0186,eSG_L01_21w_0186,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+817,eSG_L01_21w_0190,eSG_L01_21w_0190,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+818,eSG_L01_21w_0191,eSG_L01_21w_0191,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+819,eSG_L01_21w_0196,eSG_L01_21w_0196,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+820,eSG_L01_21w_0200,eSG_L01_21w_0200,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+821,eSG_L01_21w_0201,eSG_L01_21w_0201,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+822,eSG_L01_21w_0203,eSG_L01_21w_0203,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+823,eSG_L01_21w_0210,eSG_L01_21w_0210,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+824,eSG_L01_21w_0211,eSG_L01_21w_0211,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+825,eSG_L01_21w_0216,eSG_L01_21w_0216,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+826,eSG_L01_21w_0221,eSG_L01_21w_0221,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+827,eSG_L01_21w_0226,eSG_L01_21w_0226,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+828,eSG_L01_21w_0230,eSG_L01_21w_0230,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+829,eSG_L01_21w_0231,eSG_L01_21w_0231,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/22/23,Supor
+830,eSG_L01_22w_0002,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+831,eSG_L01_22w_0005,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+832,eSG_L01_22w_0009,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+833,eSG_L01_22w_0010,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+834,eSG_L01_22w_0014,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+835,eSG_L01_22w_0015,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+836,eSG_L01_22w_0018,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+837,eSG_L01_22w_0019,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+838,eSG_L01_22w_0020,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+839,eSG_L01_22w_0023,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+840,eSG_L01_22w_0024,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+841,eSG_L01_22w_0025,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+842,eSG_L01_22w_0027,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+843,eSG_L01_22w_0029,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+844,eSG_L01_22w_0030,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+845,eSG_L01_22w_0032,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+846,eSG_L01_22w_0035,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+847,eSG_L01_22w_0039,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+848,eSG_L01_22w_0040,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+849,eSG_L01_22w_0044,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+850,eSG_L01_22w_0045,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+851,eSG_L01_22w_0049,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+852,eSG_L01_22w_0050,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+853,eSG_L01_22w_0054,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+854,eSG_L01_22w_0055,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+855,eSG_L01_22w_0059,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+856,eSG_L01_22w_0060,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_3,Supor2_4/12/23,Supor
+857,eSG_L01_22w_0062,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+858,eSG_L01_22w_0065,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+859,eSG_L01_22w_0069,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+860,eSG_L01_22w_0070,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+861,eSG_L01_22w_0074,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+862,eSG_L01_22w_0075,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+863,eSG_L01_22w_0079,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+864,eSG_L01_22w_0080,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+865,eSG_L01_22w_0084,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+866,eSG_L01_22w_0085,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+867,eSG_L01_22w_0089,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+868,eSG_L01_22w_0090,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+869,eSG_L01_22w_0092,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+870,eSG_L01_22w_0095,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+871,eSG_L01_22w_0099,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+872,eSG_L01_22w_0100,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+873,eSG_L01_22w_0104,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+874,eSG_L01_22w_0105,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+875,eSG_L01_22w_0109,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+876,eSG_L01_22w_0110,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+877,eSG_L01_22w_0114,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+878,eSG_L01_22w_0115,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+879,eSG_L01_22w_0119,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+880,eSG_L01_22w_0120,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+881,eSG_L01_22w_0122,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_2,Supor_4/12/23,Supor
+882,eSG_L01_22w_0124,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+883,eSG_L01_22w_0127,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+884,eSG_L01_22w_0131,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+885,eSG_L01_22w_0132,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+886,eSG_L01_22w_0136,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+887,eSG_L01_22w_0137,eSG_L01,Maine-eDNA (Hitchner),Supor_Rack_1,Supor_2/27/23,Supor
+888,eSG_L01_22w_0154,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+889,eSG_L01_22w_0157,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+890,eSG_L01_22w_0161,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+891,eSG_L01_22w_0162,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+892,eSG_L01_22w_0166,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+893,eSG_L01_22w_0167,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+894,eSG_L01_22w_0171,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+895,eSG_L01_22w_0172,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+896,eSG_L01_22w_0176,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+897,eSG_L01_22w_0177,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+898,eSG_L01_22w_0181,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
+899,eSG_L01_22w_0182,,Maine-eDNA (Hitchner),Supor_Rack_3,Supor_4/17/23,Supor
