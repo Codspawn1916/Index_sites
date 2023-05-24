@@ -1,0 +1,30 @@
+---
+title: "Batch 2 randomization"
+author: "Julia Sunnarborg, Then Lucia L Goldman"
+date: "5/15/2023"
+output: html_document
+---
+
+setwd("C:/Users/lukew/OneDrive/Documents/Index_sites/Supors")
+
+Part 2: May __, 2023
+
+Today I am just going to randomize what I have so far so that students can extract in a random order, even though we do not yet have the extraction barcodes nor a very large batch.
+
+
+```{r}
+batch1Sup <- read.csv("Supor Batch 1.csv") #upload supor list file, I changed this to the new filename but left the rest
+
+batch1sup_vector <- batch1Sup$Supor.Batch.1 #pull list into vector
+batch1sup_vector #look at it 
+
+set.seed(2)     # Set seed
+batch1sup_vector_rand <- sample(batch1sup_vector)        # randomize vector
+batch1sup_vector_rand  # Print shuffled vector
+
+
+batch1sup_rand <- as.data.frame(batch1sup_vector_rand) #turn vector into a table again
+
+write.csv(batch1sup_rand, file = "Batch1sup_randomized.csv") #save table as CSV
+```
+
